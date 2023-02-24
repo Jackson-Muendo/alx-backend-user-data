@@ -226,8 +226,6 @@ This project contains tasks for learning to create a user authentication service
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 
-Author: [Abinet Tesfu](https://www.linkedin.com/in/abinet-tesfu-99a431185/)
-Date: 2022-08-03
 
 
 ----------------------------------------------------------------
